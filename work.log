@@ -265,3 +265,4 @@
 [2024-04-12 12:48:27] Update README with accessibility improvements instructions
 [2024-04-12 15:44:46] Debug and fix null pointer
 [2024-04-12 16:18:22] Add tests for dashboard API
+[2024-04-15 10:09:54] Fix bug: session handling causing timeout issues
