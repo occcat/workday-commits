@@ -407,3 +407,4 @@
 [2024-06-06 11:33:20] Update frontend components documentation
 [2024-06-06 13:03:10] Update README with API v2 instructions
 [2024-06-06 15:06:29] Fix bug: race condition causing slow response times
+[2024-06-07 10:51:41] Update database migrations documentation
