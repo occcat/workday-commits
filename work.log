@@ -455,3 +455,4 @@
 [2024-06-25 15:40:22] Fix edge case in webhook handlers
 [2024-06-25 17:09:26] Push EOD changes for rate limiting
 [2024-06-26 09:34:44] Start day: review PR queue and plan tasks
+[2024-06-26 12:25:17] Update README with API v2 instructions
