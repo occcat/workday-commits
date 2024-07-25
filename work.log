@@ -533,3 +533,4 @@
 [2024-07-23 12:20:35] Update README with bulk export instructions
 [2024-07-23 14:37:37] Fix edge case in error logging
 [2024-07-23 17:32:56] Wrap up: commit WIP on caching layer
+[2024-07-25 10:37:33] Hotfix: resolve race condition in production
