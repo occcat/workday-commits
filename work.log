@@ -628,3 +628,4 @@
 [2024-08-30 11:51:55] Address code review feedback on authentication timeout
 [2024-08-30 12:35:29] Document accessibility improvements architecture decision
 [2024-08-30 16:48:02] Hotfix: resolve token refresh in production
+[2024-09-03 13:10:56] Update README with bulk export instructions
