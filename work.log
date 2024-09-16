@@ -661,3 +661,4 @@
 [2024-09-13 10:06:51] Fix regression in validation error
 [2024-09-13 12:23:48] Leave feedback on dashboard-v2
 [2024-09-13 15:18:21] Fix regression in database deadlock
+[2024-09-16 10:06:25] Add tests for dashboard API
