@@ -678,3 +678,4 @@
 [2024-09-19 09:31:51] Morning sync: align on priorities
 [2024-09-19 11:18:25] Refactor security middleware for better performance
 [2024-09-19 13:36:46] Write technical spec for dark mode
+[2024-09-19 16:13:14] Fix bug: token refresh causing missing notifications
