@@ -708,3 +708,4 @@
 [2024-10-02 10:40:45] Debug and fix validation error
 [2024-10-02 11:03:30] Add validation to metrics collection
 [2024-10-02 16:55:03] Leave feedback on api-cleanup
+[2024-10-03 10:04:09] Hotfix: resolve validation error in production
