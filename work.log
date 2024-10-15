@@ -745,3 +745,4 @@
 [2024-10-15 13:16:22] Document bulk export architecture decision
 [2024-10-15 14:12:09] Fix regression in session handling
 [2024-10-15 15:20:35] Implement feature: metrics collection
+[2024-10-15 16:37:20] Add tests for error logging
