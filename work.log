@@ -742,3 +742,4 @@
 [2024-10-14 10:29:21] Debug and fix race condition
 [2024-10-14 14:12:39] Fix regression in race condition
 [2024-10-14 16:04:44] Integrate cache layer with API
+[2024-10-15 13:16:22] Document bulk export architecture decision
