@@ -896,3 +896,4 @@
 [2024-12-06 15:25:46] Implement feature: dashboard API
 [2024-12-06 17:50:48] Push EOD changes for audit logging
 [2024-12-09 11:34:08] Fix bug: database deadlock causing crashes
+[2024-12-09 12:44:14] Document accessibility improvements architecture decision
