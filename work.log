@@ -945,3 +945,4 @@
 [2024-12-26 11:57:55] Code review: payment-fix
 [2024-12-26 14:05:52] Implement feature: metrics collection
 [2024-12-27 11:57:10] Add tests for user profile
+[2024-12-27 13:09:35] Document bulk export architecture decision
