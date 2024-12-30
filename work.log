@@ -953,3 +953,4 @@
 [2024-12-30 10:01:27] Debug and fix token refresh
 [2024-12-30 11:13:09] Add validation to config management
 [2024-12-30 12:11:14] Document bulk export architecture decision
+[2024-12-30 16:02:12] Fix regression in memory leak
