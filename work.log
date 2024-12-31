@@ -955,3 +955,4 @@
 [2024-12-30 12:11:14] Document bulk export architecture decision
 [2024-12-30 16:02:12] Fix regression in memory leak
 [2024-12-31 09:43:32] Start day: review PR queue and plan tasks
+[2024-12-31 10:17:41] Add tests for error logging
