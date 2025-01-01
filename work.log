@@ -958,3 +958,4 @@
 [2024-12-31 10:17:41] Add tests for error logging
 [2024-12-31 12:06:44] Write technical spec for mobile optimization
 [2024-12-31 16:02:54] Debug and fix session handling
+[2025-01-01 11:52:43] Fix bug: validation error causing login errors
