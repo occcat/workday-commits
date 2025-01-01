@@ -960,3 +960,4 @@
 [2024-12-31 16:02:54] Debug and fix session handling
 [2025-01-01 11:52:43] Fix bug: validation error causing login errors
 [2025-01-01 13:04:44] Document bulk export architecture decision
+[2025-01-01 16:49:10] Integrate reporting module with API
