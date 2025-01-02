@@ -963,3 +963,4 @@
 [2025-01-01 16:49:10] Integrate reporting module with API
 [2025-01-02 09:23:55] Start day: review PR queue and plan tasks
 [2025-01-02 11:05:44] Fix regression in memory leak
+[2025-01-02 12:58:58] Document bulk export architecture decision
