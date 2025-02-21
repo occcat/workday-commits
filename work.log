@@ -1088,3 +1088,4 @@
 [2025-02-20 11:58:48] Fix regression in cache invalidation
 [2025-02-20 17:59:48] Wrap up: commit WIP on new onboarding flow
 [2025-02-21 09:11:43] Check overnight builds and CI status
+[2025-02-21 12:06:43] Document mobile optimization architecture decision
