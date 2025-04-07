@@ -1212,3 +1212,4 @@
 [2025-04-07 11:29:43] Code review: #1425
 [2025-04-07 12:54:33] Update README with audit logging instructions
 [2025-04-07 13:12:09] Code review: #1423
+[2025-04-07 16:10:18] Fix bug: indexing issue causing incorrect totals
