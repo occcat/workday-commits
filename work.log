@@ -1399,3 +1399,4 @@
 [2025-06-20 09:57:36] Morning sync: align on priorities
 [2025-06-20 11:20:34] Fix bug: validation error causing incorrect totals
 [2025-06-20 13:40:35] Document bulk export architecture decision
+[2025-06-20 14:44:27] Update config management documentation
