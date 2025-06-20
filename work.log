@@ -1397,3 +1397,4 @@
 [2025-06-17 15:11:57] Fix bug: session handling causing slow response times
 [2025-06-17 16:52:11] Debug and fix token refresh
 [2025-06-20 09:57:36] Morning sync: align on priorities
+[2025-06-20 11:20:34] Fix bug: validation error causing incorrect totals
