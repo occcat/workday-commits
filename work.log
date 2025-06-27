@@ -1415,3 +1415,4 @@
 [2025-06-26 13:59:15] Write technical spec for mobile optimization
 [2025-06-26 14:48:55] Review and approve PR: #1430
 [2025-06-26 15:12:38] Debug and fix database deadlock
+[2025-06-27 13:07:25] Update README with rate limiting instructions
