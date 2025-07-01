@@ -1422,3 +1422,4 @@
 [2025-06-30 09:38:07] Review emails and update task board
 [2025-06-30 10:12:19] Add validation to API endpoints
 [2025-06-30 16:32:33] Fix edge case in user authentication
+[2025-07-01 12:02:39] Document new onboarding flow architecture decision
