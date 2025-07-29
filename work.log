@@ -1491,3 +1491,4 @@
 [2025-07-28 12:38:05] Update sprint backlog
 [2025-07-28 13:19:28] Document API v2 architecture decision
 [2025-07-28 14:55:51] Fix edge case in API endpoints
+[2025-07-29 10:30:33] Fix bug: null pointer causing crashes
