@@ -1498,3 +1498,4 @@
 [2025-07-29 17:27:53] Wrap up: commit WIP on mobile optimization
 [2025-07-30 10:35:46] Leave feedback on #1425
 [2025-07-30 11:48:55] Review and approve PR: #1432
+[2025-07-30 14:51:03] Fix bug: race condition causing missing notifications
