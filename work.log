@@ -1732,3 +1732,4 @@
 [2025-10-21 17:16:33] Wrap up: commit WIP on new onboarding flow
 [2025-10-22 10:34:11] Leave feedback on dashboard-v2
 [2025-10-22 13:59:47] Leave feedback on user-auth-refactor
+[2025-10-22 16:29:46] Fix regression in race condition
