@@ -1836,3 +1836,4 @@
 [2025-11-28 14:30:34] Fix edge case in user authentication
 [2025-11-28 15:17:26] Address code review feedback on memory leak
 [2025-11-28 16:47:24] Fix regression in token refresh
+[2025-12-01 10:56:40] Fix bug: race condition causing crashes
